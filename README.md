@@ -63,7 +63,9 @@ The architecture is designed to provide a seamless customer support experience w
   - **Data Export**: Export case data using `ExportData` class.
   - **Data Import and Visualization**: Import CSV data into Power BI for reporting.
 
-**Architecture Diagram**: /Users/subadravenkatesan/Downloads/Projects/Omni-Channel Customer Support Platform /Guidance for Omni-Channel Customer Engagement for Airlines.3b51cf43af13dfc4de61d5b991ef770068c42d6d.png
+**Architecture Diagram**: 
+![image](https://github.com/user-attachments/assets/aa46eb21-b036-4362-909c-32e24be5c329)
+
 
 ## License
 
