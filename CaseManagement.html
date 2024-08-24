@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="Case Management">
+        <div class="slds-m-around_medium">
+            <lightning-input label="Subject" value={caseSubject} onchange={handleSubjectChange}></lightning-input>
+            <lightning-input label="Priority" value={casePriority} onchange={handlePriorityChange}></lightning-input>
+            <lightning-button label="Create Case" onclick={createCase}></lightning-button>
+        </div>
+        <template if:true={cases}>
+            <lightning-datatable
+                data={cases}
+                columns={columns}
+                key-field="Id">
+            </lightning-datatable>
+        </template>
+    </lightning-card>
+</template>

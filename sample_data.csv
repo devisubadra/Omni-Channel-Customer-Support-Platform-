@@ -1,0 +1,11 @@
+CaseID,CustomerName,Email,Channel,Subject,Status,Priority,CreatedDate,ResolvedDate
+1001,John Doe,john.doe@example.com,Email,Login Issue,Resolved,High,2024-08-01,2024-08-02
+1002,Jane Smith,jane.smith@example.com,Chat,Billing Question,In Progress,Medium,2024-08-02,
+1003,Emily Johnson,emily.johnson@example.com,Social Media,Technical Support,Closed,Low,2024-08-01,2024-08-01
+1004,Michael Brown,michael.brown@example.com,Email,Account Setup,Resolved,Medium,2024-08-03,2024-08-04
+1005,Alice Davis,alice.davis@example.com,Chat,Feature Request,New,Low,2024-08-04,
+1006,David Wilson,david.wilson@example.com,Social Media,General Inquiry,Resolved,High,2024-08-05,2024-08-06
+1007,Susan Miller,susan.miller@example.com,Email,Password Reset,In Progress,High,2024-08-06,
+1008,Robert Garcia,robert.garcia@example.com,Chat,Technical Issue,Closed,Medium,2024-08-07,2024-08-07
+1009,Linda Martinez,linda.martinez@example.com,Social Media,Product Feedback,New,Low,2024-08-07,
+1010,James Anderson,james.anderson@example.com,Email,Order Status,Resolved,Medium,2024-08-08,2024-08-09
